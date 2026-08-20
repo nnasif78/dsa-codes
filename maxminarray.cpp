@@ -25,3 +25,4 @@ int main ()
     cout<<maximum<<endl<<minimum;
     
 }
+nice 
